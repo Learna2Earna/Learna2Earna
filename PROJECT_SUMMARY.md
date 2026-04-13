@@ -220,7 +220,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Contact
 
-- **GitHub:** [yourusername/learna2earna](https://github.com/yourusername/learna2earna)
+- **GitHub:** [yourusername/learna2earna](https://github.com/learna2earna/learna2earna)
 - **Issues:** [Report bugs or request features](https://github.com/yourusername/learna2earna/issues)
 - **Discussions:** [Ask questions or share ideas](https://github.com/yourusername/learna2earna/discussions)
 
