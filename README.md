@@ -94,7 +94,7 @@ learna2earna/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/learna2earna.git
+git clone https://github.com/learna2earna/learna2earna.git
 cd learna2earna
 
 # Smart Contracts
