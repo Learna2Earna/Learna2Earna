@@ -139,7 +139,7 @@ learna2earna/
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/learna2earna.git
+git clone https://github.com/learna2earna/learna2earna.git
 cd learna2earna
 
 # Test contracts
@@ -158,7 +158,7 @@ See [QUICKSTART.md](QUICKSTART.md) for detailed instructions.
 
 We welcome contributions! Here's how:
 
-1. Browse [open issues](https://github.com/yourusername/learna2earna/issues)
+1. Browse [open issues](https://github.com/learna2earna/learna2earna/issues)
 2. Look for `good first issue` labels
 3. Read [CONTRIBUTING.md](CONTRIBUTING.md)
 4. Fork, code, test, and submit PR
@@ -221,11 +221,11 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Contact
 
 - **GitHub:** [yourusername/learna2earna](https://github.com/learna2earna/learna2earna)
-- **Issues:** [Report bugs or request features](https://github.com/yourusername/learna2earna/issues)
-- **Discussions:** [Ask questions or share ideas](https://github.com/yourusername/learna2earna/discussions)
+- **Issues:** [Report bugs or request features](https://github.com/learna2earna/learna2earna/issues)
+- **Discussions:** [Ask questions or share ideas](https://github.com/learna2earna/learna2earna/discussions)
 
 ---
 
 **Built with 💙 by the Learna2Earna community**
 
-[⭐ Star this repo](https://github.com/yourusername/learna2earna) if you find it useful!
+[⭐ Star this repo](https://github.com/learna2earna/learna2earna) if you find it useful!

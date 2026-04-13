@@ -17,7 +17,7 @@ Before starting, make sure you have:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/learna2earna.git
+git clone https://github.com/learna2earna/learna2earna.git
 cd learna2earna
 ```
 
@@ -181,8 +181,8 @@ pnpm install
 
 ## 🤝 Getting Help
 
-- **Questions?** Open a [discussion](https://github.com/yourusername/learna2earna/discussions)
-- **Bug?** Open an [issue](https://github.com/yourusername/learna2earna/issues)
+- **Questions?** Open a [discussion](https://github.com/learna2earna/learna2earna/discussions)
+- **Bug?** Open an [issue](https://github.com/learna2earna/learna2earna/issues)
 - **Want to contribute?** Read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 🎉 You're Ready!
@@ -196,11 +196,11 @@ You now have:
 **Next steps:**
 1. Explore the code in `contracts/` and `frontend/src/`
 2. Read the documentation in `docs/`
-3. Pick an issue from the [project board](https://github.com/yourusername/learna2earna/issues)
+3. Pick an issue from the [project board](https://github.com/learna2earna/learna2earna/issues)
 4. Make your first contribution!
 
 ---
 
 **Built with 💙 on Stellar Soroban**
 
-[⭐ Star this repo](https://github.com/yourusername/learna2earna) if you find it useful!
+[⭐ Star this repo](https://github.com/learna2earna/learna2earna) if you find it useful!

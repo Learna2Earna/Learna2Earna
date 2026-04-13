@@ -148,7 +148,7 @@ Look for issues labeled `good first issue`. These are scoped, well-documented, a
 
 ## Getting Help
 
-- **Questions?** Open a [discussion](https://github.com/yourusername/learna2earna/discussions)
+- **Questions?** Open a [discussion](https://github.com/learna2earna/learna2earna/discussions)
 - **Stuck?** Comment on the issue you're working on
 - **Found a bug?** Open an issue with reproduction steps
 

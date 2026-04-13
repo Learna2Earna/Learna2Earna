@@ -23,7 +23,7 @@ If any command fails, see [docs/development-setup.md](docs/development-setup.md)
 ## 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/learna2earna.git
+git clone https://github.com/learna2earna/learna2earna.git
 cd learna2earna
 ```
 
@@ -94,7 +94,7 @@ pnpm dev
 
 ## Need Help?
 
-- [Open an issue](https://github.com/yourusername/learna2earna/issues)
-- [Start a discussion](https://github.com/yourusername/learna2earna/discussions)
+- [Open an issue](https://github.com/learna2earna/learna2earna/issues)
+- [Start a discussion](https://github.com/learna2earna/learna2earna/discussions)
 
 Happy building! 🚀

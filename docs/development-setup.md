@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/learna2earna.git
+git clone https://github.com/learna2earna/learna2earna.git
 cd learna2earna
 ```
 
@@ -237,12 +237,12 @@ Add to `.vscode/settings.json`:
 
 - Read [CONTRIBUTING.md](../CONTRIBUTING.md) for contribution guidelines
 - Check [docs/architecture.md](architecture.md) for system design
-- Browse [open issues](https://github.com/yourusername/learna2earna/issues) for tasks
+- Browse [open issues](https://github.com/learna2earna/learna2earna/issues) for tasks
 
 ## Getting Help
 
-- **Questions?** Open a [discussion](https://github.com/yourusername/learna2earna/discussions)
-- **Bug?** Open an [issue](https://github.com/yourusername/learna2earna/issues)
+- **Questions?** Open a [discussion](https://github.com/learna2earna/learna2earna/discussions)
+- **Bug?** Open an [issue](https://github.com/learna2earna/learna2earna/issues)
 - **Stuck?** Comment on the issue you're working on
 
 Happy coding! 🚀

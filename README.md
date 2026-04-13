@@ -195,7 +195,7 @@ We welcome contributions! Here's how to get involved:
 
 ### 1. Find an Issue
 
-Browse [open issues](https://github.com/yourusername/learna2earna/issues) or look for `good first issue` labels for beginner-friendly tasks.
+Browse [open issues](https://github.com/learna2earna/learna2earna/issues) or look for `good first issue` labels for beginner-friendly tasks.
 
 ### 2. Set Up Your Environment
 
@@ -308,7 +308,7 @@ Before submitting your PR, ensure:
 
 ### Getting Help
 
-- **Questions?** Open a [discussion](https://github.com/yourusername/learna2earna/discussions)
+- **Questions?** Open a [discussion](https://github.com/learna2earna/learna2earna/discussions)
 - **Stuck?** Comment on the issue you're working on
 - **Found a bug?** Open an issue with reproduction steps
 
@@ -332,7 +332,7 @@ Every contribution matters. Here's how we recognize contributors:
 | **M4** Polish | 📋 Planned | Security audit, performance optimization |
 | **M5** Mainnet | 📋 Planned | Production deployment |
 
-See the [project board](https://github.com/yourusername/learna2earna/projects) for detailed progress.
+See the [project board](https://github.com/learna2earna/learna2earna/projects) for detailed progress.
 
 ## 🔒 Security
 
@@ -368,4 +368,4 @@ Built with:
 
 **Built with 💙 by the Learna2Earna community**
 
-[⭐ Star this repo](https://github.com/yourusername/learna2earna) if you find it useful!
+[⭐ Star this repo](https://github.com/learna2earna/learna2earna) if you find it useful!
