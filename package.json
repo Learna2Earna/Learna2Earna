@@ -1,0 +1,24 @@
+{
+  "name": "learna2earna",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Learn-to-earn platform on Stellar Soroban",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "test": "./scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/learna2earna.git"
+  },
+  "keywords": [
+    "stellar",
+    "soroban",
+    "learn-to-earn",
+    "blockchain",
+    "education",
+    "web3"
+  ],
+  "author": "Learna2Earna Contributors",
+  "license": "MIT"
+}
